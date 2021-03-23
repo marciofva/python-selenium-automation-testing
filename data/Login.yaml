@@ -1,0 +1,11 @@
+valid_credentials:
+    email: michael_user@test.com
+    password: 12345678
+
+invalid_email:
+    email: testabcdk@teste.com
+    password: 12345678
+
+invalid_password:
+    email: michael_user@test.com
+    password: abc3456ja

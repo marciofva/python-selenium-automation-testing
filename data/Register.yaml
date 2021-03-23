@@ -1,0 +1,18 @@
+registration:
+    email: user_xxxxxxxxxx@test.com
+    firstName: Paul
+    secondName: Smith
+    password: 12345678
+    days: 15
+    months: 4
+    years: 1992
+    company: Company
+    address1: Beacon Street
+    address2: Bennington Street
+    city: Boston
+    state: Massachusetts
+    postcode: 32116
+    additionalInformation: House
+    phone: +351 643 674 79
+    mobile: +0998 3346 231
+    alias: 540 Brookline Avenue

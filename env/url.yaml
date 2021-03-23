@@ -1,0 +1,5 @@
+QA:
+  URL: http://automationpractice.com/index.php?controller=my-account
+
+STAGE:
+  URL: http://example.com/
