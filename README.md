@@ -9,7 +9,7 @@ E2E testing project with Python and Selenium
 - Install **Python 3** - Download **Python 3** [Click here](https://www.python.org/downloads/)
 
 
-- In order to verify the successful installation of python 3, run in terminal below commands:
+- In order to verify the successful installation of **python 3**, run in terminal below commands:
 
 ```console
 python3 --version
